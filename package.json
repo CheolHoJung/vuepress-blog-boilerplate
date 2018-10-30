@@ -1,0 +1,16 @@
+{
+  "name": "vuewpress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-plugin-jest": "^21.26.2",
+    "eslint-plugin-vue-libs": "^3.0.0"
+  }
+}
