@@ -17,6 +17,7 @@ git clone https://github.com/CheolHoJung/vuepress-blog-boilerplate.git
 cd vuepress-blog-boilerplate
 
 # build
-yarn install --save
-yarn dev
+yarn install --save # OR npm install --save
+yarn dev # OR npm run dev
 ```
+
