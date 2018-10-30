@@ -13,11 +13,10 @@ Make sure you have node.js installed, then following commands.
 yarn global add vuepress # OR npm install -g vuepress
 
 # clone
-git clone https://github.com/CheolHoJung/vuepress-blog-boilerplates.git
-cd vuepress-blog-boilerplates
+git clone https://github.com/CheolHoJung/vuepress-blog-boilerplate.git
+cd vuepress-blog-boilerplate
 
 # build
-yarn install
+yarn install --save
 yarn dev
 ```
-
